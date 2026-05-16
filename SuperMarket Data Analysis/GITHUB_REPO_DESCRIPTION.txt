@@ -1,0 +1,12 @@
+ Professional-grade supermarket sales analytics with RFM segmentation, time-series forecasting, anomaly detection, and strategic business recommendations. Demonstrates enterprise-level data science skills with visualizations and actionable insights.
+
+ Key Features:
+• Customer RFM Segmentation
+• Time Series & Seasonality Analysis
+• Profitability Analysis
+• Anomaly Detection
+• Store Benchmarking
+• 6 Professional Visualizations
+• 100+ Business Metrics
+
+ Perfect for portfolio projects, interviews, and learning advanced analytics.
